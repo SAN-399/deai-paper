@@ -1,0 +1,5 @@
+﻿interface:
+  display_name: "De-AI Paper"
+  short_description: "Lower AI detection scores in academic papers with two-stage LLM rewriting"
+  brand_color: "#10B981"
+  default_prompt: "Use $deai-paper to reduce the AI detection rate on my thesis"

@@ -1,4 +1,4 @@
-﻿# Thesis De-AI Tool / 论文降AI率工具
+# Thesis De-AI Tool / 论文降AI率工具
 
 > 📝 Two-stage LLM pipeline to reduce AI detection scores in academic papers.  
 > 📝 基于大语言模型的两阶段管道，降低学术论文的 AI 检测率。
